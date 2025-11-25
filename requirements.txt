@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+nltk
+gensim
+jupyterlab
+pytest
+python-dotenv
